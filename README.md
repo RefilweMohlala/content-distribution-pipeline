@@ -94,13 +94,7 @@ Full step-by-step build instructions, including the exact Notion schema and ever
 
 ---
 
-## Demo
 
-📺 [Loom walkthrough](#) *(link here)*
-
-The demo covers: a rough idea going into Notion, the full n8n execution, the live dashboard populating with generated content, the Notion write-back, and the error-handling path in action.
-
----
 
 ## About This Project
 
